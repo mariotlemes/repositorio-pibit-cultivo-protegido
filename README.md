@@ -7,4 +7,4 @@ Este repositório será usado para armazenamento dos códigos criados para o pro
 Agosto/2018 a Julho/2019.
 
 ## Equipe 
-Mario Teixeira Lemes (professor orientador), Alice Alves Lima (aluna bolsista) e Yan Willian Medeiros de Lima (aluno voluntário).
+Mario Teixeira Lemes (professor orientador) e Yan Willian Medeiros de Lima (aluno bolsista).
